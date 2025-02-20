@@ -19,7 +19,7 @@ The **Smart Email Assistant** is an AI-powered tool designed to generate intelli
 ## 🚀 Installation & Setup
 ### 📌 Backend (Spring Boot)
 1. Clone the repository:
-   git clone https://github.com/yourusername/smart-email-assistant.git
+   git clone https://github.com/ParthShah12001/Smart-Email-Assistant.git
    cd smart-email-assistant/backend
 
 2. Add your **OpenAI API key** in `application.properties`:
